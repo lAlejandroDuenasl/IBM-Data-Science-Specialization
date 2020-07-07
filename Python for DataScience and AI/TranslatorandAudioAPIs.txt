@@ -1,0 +1,5 @@
+S API key: al_Wqziv-zMDqXiOubYy0sgWAj7jwAKaSC8uMg3x96N7
+S URL: https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/71af2a0b-9d93-4690-bfb1-b2302a42d658
+T API key: 4HiD1zdRv0leky8NHDgQ-YkFodxYQ3evqOQ5gHLFvSSU
+T URL: https://api.us-south.language-translator.watson.cloud.ibm.com/instances/06bd9879-f252-46ec-bec2-b85c265f6d53
+
